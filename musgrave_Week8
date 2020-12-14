@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <title>Chris Musgrave</title>
+
+     <!-- link to an external stylesheet -->
+     <link rel="stylesheet" type="text/css" href="bawp_EX2.css">
+     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&family=Quattrocento:wght@400;700&display=swap" rel="stylesheet">
+
+     <style>
+        img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+     </style>
+
+ </head>
+
+ <body>
+        
+    <body style="background-color:lightgray;"> 
+    
+
+        
+     <div id="container">
+
+        <h1 style="text-align:center;">Get to Know Chris Musgrave</h1>
+
+         <h2 style="text-align:center;">About Chris</h2>
+
+       
+        
+        <!-- 1st Paragraph -->
+        <p class="intro" style="text-align:center;">
+        
+                Chris, also known as my dad, is the person I picked. Not only does he mean everything to me, 
+            but I know that us kids is also his everything. He loves hanging out with his family whether that means  
+            playing cornhole or just watching tv together. If he's not home, he is either working on a car or hunting. 
+
+        </p>
+
+        <p style="text-align:center;">He works hard for his money to support his family and makes sure his kids have everything they need and want.  
+            Chris likes to teach us kids how to do a lot of stuff. If I listed everything, it would take forever,  
+            however, some include changing a tire, playing cornhole, changing oil, how to shoot guns, hunt,  
+            how to drive a manual car, and so much more. There is a lot of things that he enjoys and most of them 
+            have something to do with his family. I am not sure what I would do without him. Growing up, his dad 
+            wasn’t really around so he makes sure that he is that good dad that he wanted growing up for all of us. 
+            This is so important for him and makes him work just that much harder and always puts his family first.  
+            I am so thankful to be able to call Chris Musgrave my dad. 
+        </p>
+                 
+        
+                
+         
+             <div class="gallery">
+                <a target="_blank" href="Dad_1.jpg">
+                  <img src="Dad_1.jpg" alt=" " width="600" height="400">
+                </a>
+                <div class="desc" style="text-align:center;">Chris with his daughter at a wedding</div>
+              </div>
+              
+              <div class="gallery">
+                <a target="_blank" href="Dad_2.jpg">
+                  <img src="Dad_2.jpg" alt=" " width="600" height="400">
+                </a>
+                <div class="desc" style="text-align:center;">Feeding deer at a deer farm in Wisconsin</div>
+              </div>
+              
+              
+              
+              <div class="gallery">
+                <a target="_blank" href="Dad_3.jpg">
+                  <img src="Dad_3.jpg" alt=" " width="600" height="400">
+                </a>
+                <div class="desc" style="text-align:center;">Helping his daughter play the arcade game</div>
+              </div>
+       <div id="image-gallery">
+        <div class="gallery-item">
+            <div class="gallery">
+                <a target="_blank" href="Dad_4.jpg">
+                  <img src="Dad_4.jpg" alt=" " width="600" height="400">
+                </a>
+                <div class="desc" style="text-align:center;">Riding the Branson Rollercoaster</div>
+              </div>
+              
+              <div class="gallery">
+                <a target="_blank" href="Dad_5.jpg">
+                  <img src="Dad_5.jpg" alt=" " width="600" height="400">
+                </a>
+                <div class="desc" style="text-align:center;">Petting goats</div>
+              </div>
+              
+            
+            <!--
+            <figure>
+                <img src="images/Dad_1.jpg" alt="">
+
+                <figcaption>(Chris and his daughter at a wedding.) </figcaption>
+            </figure>
+             
+            -->
+    
+
+         <!-- <hr /> -->
+
+         <address>
+             <p style="text-align:center;">
+                 <a href="https://www.bellevue.edu/" target="_blank">Link Here</a>
+             </p>
+             <p style="text-align:center;">Jordan Musgrave</p>
+         </address>
+
+
+     </div>
+
+    </body>
+
+ </body>
+
+ </html>
